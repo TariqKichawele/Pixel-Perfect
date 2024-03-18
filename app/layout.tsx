@@ -11,7 +11,7 @@ const IBMPlex = IBM_Plex_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "AI Image Generator",
+  title: "Pixel Craft",
   description: "Generate images using AI",
 };
 
