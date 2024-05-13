@@ -1,3 +1,41 @@
+# Pixel Perfect
+
+- Welcome to Pixel Perfect, an AI image generator app that excels in image processing capabilities. Pixel Perfect integrates a secure payment infrastructure, offers advanced image search functionalities, and supports multiple AI features, including image restoration, recoloring, object removal, generative filling, and background removal. The application is designed to provide users with powerful image editing tools and a seamless experience.
+
+![Screenshot 2024-05-13 at 12 08 15 PM](https://github.com/TariqKichawele/ai-images/assets/105932024/d8c55752-275c-403b-809e-fab7f1664c4c)
+
+**TECHNOLOGIES USED**
+
+**Frontend:**
+- TypeScript: A statically typed superset of JavaScript for building scalable and robust applications.
+- Tailwind CSS: A utility-first CSS framework for styling web interfaces.
+
+**Backend:**
+- MongoDB: A NoSQL database used for storing user data and image transformations.
+- Clerk: A secure authentication service for user authentication and authorization.
+- Cloudinary: A cloud-based image and video management platform.
+- Stripe: A payment processing platform for secure credit card transactions.
+- Shadcn: A library for implementing shadow effects in web applications.
+
+**FEATURES**
+
+- **Authentication and Authorization:** Secure user access with registration, login, and route protection.
+- **Community Image Showcase:** Explore user transformations with easy navigation using pagination.
+- **Advanced Image Search:** Find images by content or objects present inside the image quickly and accurately.
+- **Image Restoration:** Revive old or damaged images effortlessly.
+- **Image Recoloring:** Customize images by replacing objects with desired colors easily.
+- **Image Generative Fill:** Fill in missing areas of images seamlessly.
+- **Object Removal:** Clean up images by removing unwanted objects with precision.
+- **Background Removal:** Extract objects from backgrounds with ease.
+- **Download Transformed Images:** Save and share AI-transformed images conveniently.
+- **Transformed Image Details:** View details of transformations for each image.
+- **Transformation Management:** Control over deletion and updates of transformations.
+- **Credits System:** Earn or purchase credits for image transformations.
+- **Profile Page:** Access transformed images and credit information personally.
+- **Credits Purchase:** Securely buy credits via Stripe for uninterrupted use.
+- **Responsive UI/UX:** A seamless experience across devices with a user-friendly interface.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
