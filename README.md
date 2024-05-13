@@ -1,6 +1,6 @@
 # Pixel Perfect
 
-- Welcome to Pixel Perfect, an AI image generator app that excels in image processing capabilities. Pixel Perfect integrates a secure payment infrastructure, offers advanced image search functionalities, and supports multiple AI features, including image restoration, recoloring, object removal, generative filling, and background removal. The application is designed to provide users with powerful image editing tools and a seamless experience.
+Welcome to Pixel Perfect, an AI image generator app that excels in image processing capabilities. Pixel Perfect integrates a secure payment infrastructure, offers advanced image search functionalities, and supports multiple AI features, including image restoration, recoloring, object removal, generative filling, and background removal. The application is designed to provide users with powerful image editing tools and a seamless experience.
 
 ![Screenshot 2024-05-13 at 12 08 15 PM](https://github.com/TariqKichawele/ai-images/assets/105932024/d8c55752-275c-403b-809e-fab7f1664c4c)
 
